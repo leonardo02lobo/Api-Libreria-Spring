@@ -1,6 +1,6 @@
-# API BOOKSHOP TOGETHER JAVA IN SPRING FRAMEWORK
+# API BOOKSHOP IN JAVA USING SPRING FRAMEWORK
 
-## This api include the necessary dependencys to run a project in Spring
+## The API include the necessary dependencys to run a project in Spring
 
 ## The project include:
 
