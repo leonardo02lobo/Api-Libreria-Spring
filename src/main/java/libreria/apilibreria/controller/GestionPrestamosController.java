@@ -15,7 +15,7 @@ import libreria.apilibreria.model.GestionPrestamos;
 import libreria.apilibreria.service.GestionPrestamoServices;
 
 @RestController
-@RequestMapping("/gestionPrestamos")
+@RequestMapping("/api/gestionPrestamos")
 public class GestionPrestamosController {
     
     private final GestionPrestamoServices services;
